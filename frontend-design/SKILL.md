@@ -9,7 +9,7 @@ This skill guides creation of distinctive, production-grade frontend interfaces 
 
 The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
 
-## Design Thinking
+## Design Thinking - test pass
 
 Before coding, understand the context and commit to a BOLD aesthetic direction:
 - **Purpose**: What problem does this interface solve? Who uses it?
@@ -24,8 +24,6 @@ Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
 - Visually striking and memorable
 - Cohesive with a clear aesthetic point-of-view
 - Meticulously refined in every detail
-- test
-
 ## Frontend Aesthetics Guidelines
 
 Focus on:
